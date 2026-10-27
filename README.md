@@ -1,4 +1,4 @@
-# PS4 Launcher — Night Sky
+# PS4 Launcher
 
 **Делаю лаунчер игр для Windows в стиле PS4** · **Building a PS4-style game launcher for Windows**
 
